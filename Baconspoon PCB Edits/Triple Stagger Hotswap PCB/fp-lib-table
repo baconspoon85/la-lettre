@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "cipulot_kicad_parts")(type "KiCad")(uri "${KIPRJMOD}/cipulot_kicad_parts")(options "")(descr ""))
+)
