@@ -1066,7 +1066,7 @@
     (property "Value" "CPG151101S11" (at 171.0752 106.68 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap" (at 154.305 111.125 0)
+    (property "Footprint" "MX_Only:MXOnly-1.25U-Hotswap" (at 154.305 111.125 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 154.305 111.125 0)
