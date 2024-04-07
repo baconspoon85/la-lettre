@@ -13,10 +13,14 @@ Modifications to La Lettre case for La Cuillère:
 - UDB mounting added to bottom case in place of ProMicro mounting
 - Closed viewing window in bottom case and embossed the name "La Cuillere" on the underside
 - Removed screw entry points which were visible from the back of the case
-- Closure screws on the rear and front of the case bottom awere  moved to the left and right side to hide under top case.
-- Overall case height is raised by approx. 1mm to accomodate mounting.
-- Embossed case underside to accomodate SKUF silicone feet:
-  https://github.com/Zambumon/SKUF
+- Closure screws on the rear and front of the case bottom were  moved to the left and right side to hide the screw entry points, 
+which are visible from the rear on the original model
+- Udercut added to the sides
+- Redesined USB port for level entry (parallel to desk)
+- Expanded top for increased clearance
+- Modeled screw holed for threaded machine screw tapping
+- Overall case height is raised by approx. 1mm to accomodate mounting
+- Embossed case underside to accomodate SKUF silicone feet:  https://github.com/Zambumon/SKUF
 
 Alternate layout support is achieved by using unconventional key sizes on the interior columns, rather than by using multiple case tops and plates. This, combined with the use of kailh hotswap sockets will allow for multiple quick rebuilds to find your preferred row stagger. A KLE showing all layout options can be found here:
 
