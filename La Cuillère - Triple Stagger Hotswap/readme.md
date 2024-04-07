@@ -1,10 +1,10 @@
 ![La Cuillere Front View](https://github.com/baconspoon85/la-lettre/assets/101666389/9279e423-1bd3-47c9-81c4-8dfd341255b2)
 
-La Cuillère is a drop in PCB designed for La Lettre, by somepin. The original case and plate support a QAZ-like, traditional row-stagger layout. La Cuillère PCB and the modified plate file in this directory support three layouts:
+La Cuillère is a drop in PCB designed for La Lettre, by somepin. The original case and plate support a QAZ-like, traditional row-stagger layout. Together with the modified plate file in this directory, La Cuillère Hotswap PCB supports three layouts:
 
 - Traditional row stagger, with 0.25u stagger between the top two alpha rows and 0.5u stagger between the bottom two
 - Uniform row stagger, with a uniform 0.25u stagger between rows
-- “Alpha” row stagger, where the top two rows are ortholinear
+- “Alpha” row stagger, where the top two alpha rows are ortholinear and the bottom alpha is staggered 0.5u (as with traditional row stagger) 
 
 ![la-cuillère---tripple-stagger-pcb-for-la-lettre-by-somepin](https://github.com/baconspoon85/la-lettre/assets/101666389/b1477fd8-f8b5-469a-9af2-ac1378ef8482)
 
