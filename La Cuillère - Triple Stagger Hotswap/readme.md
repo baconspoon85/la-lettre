@@ -24,7 +24,7 @@ which are visible from the rear on the original model
 
 Alternate layout support is achieved by using unconventional key sizes on the interior columns, rather than by using multiple case tops and plates. This, combined with the use of kailh hotswap sockets will allow for multiple quick rebuilds to find your preferred row stagger. A KLE showing all layout options can be found here:
 
-!KLE(la-cuillere---tripple-stagger-pcb-for-la-lettre.png)
+!KLE(La Cuillère - Triple Stagger Hotswap/Art/la-cuillere---tripple-stagger-pcb-for-la-lettre.png)
 http://www.keyboard-layout-editor.com/#/gists/177f0f58f8eeb77604e0b0c7e826185b
 
 Firmware is QMK with vial. The source is minimal, with the intention being for end user to either setup their desired keymap in Vial, or to flesh out the firmware themselves. Note that La Cuillere uses RP2040, so the compiled Vial hex is a UF2 file.
