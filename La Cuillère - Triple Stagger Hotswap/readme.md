@@ -33,5 +33,9 @@ Firmware is QMK with vial. The source is minimal, with the intention being for e
 
 ![La Cuillere Side View](https://github.com/baconspoon85/la-lettre/assets/101666389/21a24f49-0cb8-4001-bc11-51fcad0c4aa5)
 ![La Cuillere Rear View](https://github.com/baconspoon85/la-lettre/assets/101666389/156f1966-f9c4-47dc-bb00-1ddbce6085cc)
-![La Cuillere Top View](https://github.com/baconspoon85/la-lettre/assets/101666389/26f11bc4-4842-42f2-9d0c-c75164ac617b)
-![La Cuillere Bottom View](https://github.com/baconspoon85/la-lettre/assets/101666389/3ad5f571-cda9-4414-9e9a-12db01a66651)
+![434347585_339994722383188_2484670211822083277_n](https://github.com/baconspoon85/la-lettre/assets/101666389/0272483e-5f26-45ef-87eb-696feccc761c)
+![434336551_793017306040206_5648405254212680459_n](https://github.com/baconspoon85/la-lettre/assets/101666389/0db81253-40a7-4ee9-a4d7-cfb53e89fc0a)
+![432507778_1146231560055321_1128930338330979377_n](https://github.com/baconspoon85/la-lettre/assets/101666389/b534818e-b16f-4258-9ca5-8f32dbd76e1f)
+![434771373_957041872763355_3705679784430354849_n](https://github.com/baconspoon85/la-lettre/assets/101666389/8de4ebae-0e1f-4a1f-9986-c3d5f9ada70c)
+![434726009_724846703062193_7743425114401481803_n](https://github.com/baconspoon85/la-lettre/assets/101666389/d2f502c5-1702-4bc3-8a30-ce6560ac6636)
+
