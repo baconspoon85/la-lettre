@@ -31,6 +31,9 @@ Alternate layout support is achieved by using unconventional key sizes on the in
 
 Firmware is QMK with vial. The source is minimal, with the intention being for end user to either setup their desired keymap in Vial, or to flesh out the firmware themselves. Note that La Cuillere uses RP2040, so the compiled Vial hex is a UF2 file.
 
+The PCB has been prototyped, flashed with the vial hex in this repo and tested. No issues there.
+Prototypes of the first iteration of the case have been printed in both PLA (FDM) and nylon (MJF). After the prototype round, some minor modifications were made, and the mounting screw holes were remodeled for threaded machine screw holes (M2x0.4 6H 6mm). A milled prototype of the final case design is pending as of 4/7/2024.
+
 ![La Cuillere Side View](https://github.com/baconspoon85/la-lettre/assets/101666389/21a24f49-0cb8-4001-bc11-51fcad0c4aa5)
 ![La Cuillere Rear View](https://github.com/baconspoon85/la-lettre/assets/101666389/156f1966-f9c4-47dc-bb00-1ddbce6085cc)
 ![434347585_339994722383188_2484670211822083277_n](https://github.com/baconspoon85/la-lettre/assets/101666389/0272483e-5f26-45ef-87eb-696feccc761c)
