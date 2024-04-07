@@ -4,7 +4,8 @@ La Cuillère is a drop in PCB designed for La Lettre, by somepin. The original c
 - Uniform row stagger, with a uniform 0.25u stagger between rows
 - “Alpha” row stagger, where the top two rows are ortholinear
 
-![la-cuillere---tripple-stagger-pcb-for-la-lettre](https://github.com/baconspoon85/la-lettre/assets/101666389/eb393a03-ffdb-4680-a793-099d683fd6a1)
+![la-cuillère---tripple-stagger-pcb-for-la-lettre-by-somepin](https://github.com/baconspoon85/la-lettre/assets/101666389/b1477fd8-f8b5-469a-9af2-ac1378ef8482)
+
 
 The modified plate and PCB are compatible with the original case design, provided that consideration is made for mounting a USB-C daughterboard in the bottom case. This repository also includes design files for a modified case (top and bottom) which has mounting for a C Series Unified Daughterboard (UDB): 
 
